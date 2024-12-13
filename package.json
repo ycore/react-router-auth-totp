@@ -1,18 +1,17 @@
 {
   "name": "react-router-auth-totp",
-  "version": "3.4.2",
+  "version": "1.0.0",
   "type": "module",
   "description": "A Time-Based One-Time Password (TOTP) Authentication Strategy for Remix-Auth.",
   "author": "Daniel Kanem <devxo@mail.com> (https://twitter.com/DanielKanem)",
-  "repository": "dev-xo/remix-auth-totp",
+  "repository": "ycore/react-router-auth-totp",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "license": "MIT",
   "keywords": [
-    "remix",
-    "remix-run",
+    "react-router",
     "remix-auth",
-    "remix-auth-totp",
+    "react-router-auth-totp",
     "authentication",
     "totp"
   ],
