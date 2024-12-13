@@ -1,5 +1,5 @@
 {
-  "name": "remix-auth-totp",
+  "name": "react-router-auth-totp",
   "version": "3.4.2",
   "type": "module",
   "description": "A Time-Based One-Time Password (TOTP) Authentication Strategy for Remix-Auth.",
@@ -46,8 +46,8 @@
     "remix-auth": "^3.6.0"
   },
   "devDependencies": {
-    "@remix-run/node": "^2.11.2",
-    "@remix-run/server-runtime": "^2.11.2",
+    "@react-router/node": "^7.0.2",
+    "react-router": "^7.0.2",
     "@types/node": "^20.16.2",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
