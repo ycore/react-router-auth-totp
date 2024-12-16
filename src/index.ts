@@ -1,7 +1,6 @@
-import type { Session, SessionStorage, AppLoadContext } from '@remix-run/server-runtime'
+import type { AppLoadContext, redirect, Session, SessionStorage } from 'react-router'
 import type { AuthenticateOptions, StrategyVerifyCallback } from 'remix-auth'
 
-import { redirect } from '@remix-run/server-runtime'
 import { Strategy } from 'remix-auth'
 import { generateTOTP, verifyTOTP } from '@epic-web/totp'
 import * as jose from 'jose'
