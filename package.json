@@ -42,7 +42,7 @@
     "jose": "^5.8.0"
   },
   "peerDependencies": {
-    "remix-auth": "^3.6.0"
+    "remix-auth": "^4.0.0"
   },
   "devDependencies": {
     "@react-router/node": "^7.0.2",
